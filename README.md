@@ -29,6 +29,6 @@ if __name__ == '__main__':
 ```
 Here are some ideas to what kind of translations you could do with this: <br/>
 - Translating text to different languages and back using google translate's (or similar) API to make the text very broken
-- Find a web tool that translates text into some form of dialect, reverse engineer it's API or scrape it then use in the translator
+- Find a web tool that translates text into some form of dialect, reverse engineer it's API or scrape it then use in the translator (for example, what I did with [python-whoohoo](https://github.com/sl4vkek/python-whoohoo))
 - Translate english into [Anglish](https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English)
 - You could do this with pretty much any language, I'm not restricting you to only english. There's lots of stuff you could do in various languages.
