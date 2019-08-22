@@ -5,7 +5,7 @@ First, you'll need to go to your .minecraft folder (google it) and inside it cli
 Then you'll need to find the version you want to translate, <br/>and copy it's JAR to your project's folder and extract it using 7zip or winrar with the "extract to (folder name)" option. <br/>
 Now here comes the fun part, translating minecraft.<br/>
 Here's an example of a translator function, which will make every text in the game like the "uwu" meme.
-```
+```python3
 from minecraftversiontranslator import MinecraftVersionTranslator
 
 
